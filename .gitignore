@@ -1,0 +1,20 @@
+# Android
+*.apk
+*.ap_
+*.aab
+# Build Files
+/build
+/app/build
+/captures
+.gradle/
+local.properties
+# Android Studio / IntelliJ
+.idea/
+*.iml
+# Keystore files
+*.jks
+*.keystore
+# Firebase
+app/google-services.json
+# Secrets
+app/src/main/res/values/secrets.xml
